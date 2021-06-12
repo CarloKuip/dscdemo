@@ -1,3 +1,6 @@
 [submodule ".\\dcs-demo-module01"]
 	path = .\\dcs-demo-module01
-	url = https://github.com/CarloKuip/dcs-demo-module01/
+	url = ../dcs-demo-module01/
+[submodule "dcs-demo-module02"]
+	path = dcs-demo-module02
+	url = ../dcs-demo-module02.git
